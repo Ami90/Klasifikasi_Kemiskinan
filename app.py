@@ -16,7 +16,7 @@ st.title("Klasifikasi Tingkat Kemiskinan di Indonesia")
 st.write("Aplikasi untuk melakukan klasifikasi tingkat kemiskinan berdasarkan fitur-fitur tertentu.")
 
 # Load dataset
-perth_file_path = './project/Klasifikasi Tingkat Kemiskinan di Indonesia.csv'
+perth_file_path = 'Klasifikasi Tingkat Kemiskinan di Indonesia.csv'
 ptemp_data = pd.read_csv(perth_file_path, delimiter=';')
 
 # Tampilkan kolom dataset
