@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import warnings
 
 # Mengatur tampilan
-st.set_option('deprecation.showPyplotGlobalUse', False)
+
 warnings.filterwarnings(action='ignore')
 
 # Judul aplikasi
