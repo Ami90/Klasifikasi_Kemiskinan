@@ -12,7 +12,7 @@ import warnings
 warnings.filterwarnings(action='ignore')
 
 # Judul aplikasi
-st.title("Klasifikasi Tingkat Kemiskinan di Indonesia")
+st.title("Klasifikasi Tingkat Kemiskinan di Indonesia Menggunkan Metode Logistic Regression")
 st.write("Aplikasi untuk melakukan klasifikasi tingkat kemiskinan berdasarkan fitur-fitur tertentu.")
 
 # Load dataset
